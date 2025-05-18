@@ -69,8 +69,9 @@ INSIGHTS
   7.Approx. 65% loans are not verified which is not a good lending practice.
   8.The maximum loan amount is sanctioned for home loans.
   9.ST caste is having the least share in loans sanctioned.
+  
 
-WAY FORWARD
+RECOMMENDATIONS
   1.Bank needs to redefine the lending criteria and should distribute the loans after proper verification.
   2.Branches having the most number of default loans are needs to be scrutinized.
   3.ST caste should be represented adequately. We can launch some programme for them.
