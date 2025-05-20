@@ -123,7 +123,7 @@ INSIGHTS-
     
     7.Approx. 65% loans are not verified which is not a good lending practice.
     
-    8.The maximum loan amount is sanctioned for home loans.
+    8.The maximum numbers of loan amount is sanctioned for home loans.
     
     9.ST caste is having the least share in loans sanctioned.
     
@@ -132,7 +132,7 @@ RECOMMENDATIONS-
 
     1.Bank needs to redefine the lending criteria and should distribute the loans after proper verification.
     
-    2.Branches having the most number of default loans are needs to be scrutinized.
+    2.Branches having the highest number of default loans are needs to be scrutinized.
     
     3.ST caste should be represented adequately. We can launch some programme for them.
     
@@ -140,10 +140,10 @@ RECOMMENDATIONS-
 
   SUMMARY-
   
-1. This project is about banking loan data, analyzing which I learnt how bank works and lends loans. I further got the insight on people’s banking behaviour and requirements.
-
-2. I got the hands on practice of tools like Advance Excel, power query editor, pivot table, data modelling, Power BI,  dax, drill down, drill through, SQL etc.
-
-3. I learnt how to perform data cleaning, treating null values and handling blanks, merging tables, analyzing data, identifying important columns and key performance indicators, visualizing the data and dashboarding.
-
-4. I would like to further work on banking data and find insightful information which can help banks taking data driven decisions and perform more efficiently. My analysis will enable banks to improve consumer experience and improve the profitability of the bank. It will ultimately strengthen the India’s banking sector.
+  1. This project is about banking loan data, analysing which I learnt how bank works and lends loans. I further got the insight on people’s banking behaviour and requirements.
+  
+  2. I got the hands on practice of tools like Advance Excel, power query editor, pivot table, data modelling, Power BI,  Dax, drill down, drill through, SQL etc.
+  
+  3. I learnt how to perform data cleaning, treating null values and handling blanks, merging tables, analyzing data, identifying important columns and key performance indicators, visualizing the data and dashboarding.
+  
+  4. I would like to further work on banking data and find insightful information which can help banks taking data driven decisions and perform more efficiently. My analysis will enable banks to improve consumer experience and improve the profitability of the bank. It will ultimately strengthen the India’s banking sector.
